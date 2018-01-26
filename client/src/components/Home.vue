@@ -5,9 +5,18 @@
 </template>
 
 <script>
+    import { articleService } from "../services/index.js";
     export default {
         data() {
-            return {}
+            return {
+                articles : []
+            }
+        },
+        mounted(){
+            articleService.find({}).then(articles => {
+                this.articles = articles.data;
+                console.log(this.articles);
+            });
         }
     }
 </script>
