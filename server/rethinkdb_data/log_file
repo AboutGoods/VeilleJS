@@ -1,0 +1,18 @@
+2018-01-25T13:40:12.878289000 0.166869s notice: Recursively removing directory /Users/Anthony 1/Documents/Code/Js/veilleJs/rethinkdb_data/tmp
+2018-01-25T13:40:12.879798000 0.168381s notice: Initializing directory /Users/Anthony 1/Documents/Code/Js/veilleJs/rethinkdb_data
+2018-01-25T13:40:12.879901000 0.168480s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/Anthony 1/Documents/Code/Js/veilleJs/rethinkdb_data' did not already exist or is empty.)
+2018-01-25T13:40:12.879942000 0.168521s notice: Running rethinkdb 2.3.6 (CLANG 9.0.0 (clang-900.0.37))...
+2018-01-25T13:40:12.884618000 0.173198s notice: Running on Darwin 17.3.0 x86_64
+2018-01-25T13:40:12.884719000 0.173298s notice: Loading data from directory /Users/Anthony 1/Documents/Code/Js/veilleJs/rethinkdb_data
+2018-01-25T13:40:12.962851000 0.251429s info: Automatically using cache size of 3165 MB
+2018-01-25T13:40:12.963332000 0.251910s notice: Listening for intracluster connections on port 29015
+2018-01-25T13:40:12.965000000 0.253578s notice: Listening for client driver connections on port 28015
+2018-01-25T13:40:12.965130000 0.253707s notice: Listening for administrative HTTP connections on port 8080
+2018-01-25T13:40:12.965138000 0.253715s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2018-01-25T13:40:12.965146000 0.253723s notice: Listening on driver addresses: 127.0.0.1, ::1
+2018-01-25T13:40:12.965149000 0.253726s notice: Listening on http addresses: 127.0.0.1, ::1
+2018-01-25T13:40:12.965156000 0.253733s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-01-25T13:40:12.965163000 0.253741s notice: Server ready, "MacBook_Pro_80_local_vo2" 8c0c24a9-26a6-426c-8ef1-b2a502e0e68f
+2018-01-25T13:41:12.845221000 60.133015s info: Table 3028e17d-b5b4-4a3b-9c8e-dfcd436cd434: Starting a new Raft election for term 1.
+2018-01-25T13:41:12.845405000 60.133198s info: Table 3028e17d-b5b4-4a3b-9c8e-dfcd436cd434: Added replica on this server.
+2018-01-25T13:41:12.853218000 60.141012s info: Table 3028e17d-b5b4-4a3b-9c8e-dfcd436cd434: This server is Raft leader for term 1. Latest log index is 0.
